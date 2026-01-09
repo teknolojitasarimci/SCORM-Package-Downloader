@@ -7,6 +7,9 @@ En son sürümü indirmek için GitHub Releases sayfasını kullanın:
 
 Kurulum dosyası: `SCORM_Downloader_Setup_v1.0.exe`
 
+📄 Lisans: MIT  
+Bu yazılım MIT lisansı ile sunulmuştur. Lütfen kaynak kodu veya türevlerinde [Mürsel EREN](https://github.com/teknolojitasarimci) adına atıfta bulunun.
+
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue) ![Language](https://img.shields.io/badge/Language-Python%20%7C%20PySide6-yellow) ![License](https://img.shields.io/badge/License-Freeware-green)
 
