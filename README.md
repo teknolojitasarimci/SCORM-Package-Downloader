@@ -1,4 +1,4 @@
-# 📦 SCORM Package Downloader v1.0
+# 📦 SCORM Package Downloader v1.0 / 📦 SCORM Paketi İndirici v1.0
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue) ![Language](https://img.shields.io/badge/Language-Python%20%7C%20PySide6-yellow) ![License](https://img.shields.io/badge/License-Freeware-green)
 
