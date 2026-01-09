@@ -1,5 +1,13 @@
 # 📦 SCORM Package Downloader v1.0 / 📦 SCORM Paketi İndirici v1.0
 
+## 🔽 İndirme / Download
+
+En son sürümü indirmek için GitHub Releases sayfasını kullanın:  
+👉 [SCORM Package Downloader v1.0](https://github.com/teknolojitasarimci/SCORM-Package-Downloader/releases/latest)
+
+Kurulum dosyası: `SCORM_Downloader_Setup_v1.0.exe`
+
+
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue) ![Language](https://img.shields.io/badge/Language-Python%20%7C%20PySide6-yellow) ![License](https://img.shields.io/badge/License-Freeware-green)
 
 **SCORM Package Downloader** is a specialized desktop tool designed to download web-based educational content (SCORM 1.2 & 2004) to your local computer. It automatically detects assets (images, videos, HTML) and packages them into a clean ZIP file, ready for revision.
